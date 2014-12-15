@@ -1,3 +1,24 @@
+## cob_calibration_data (indigo) - 0.6.1-0
+
+The packages in the `cob_calibration_data` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo cob_calibration_data` on `Mon, 15 Dec 2014 16:08:47 -0000`
+
+The `cob_calibration_data` package was released.
+
+Version of package(s) in repository `cob_calibration_data`:
+- upstream repository: https://github.com/ipa320/cob_calibration_data.git
+- release repository: https://github.com/ipa320/cob_calibration_data-release.git
+- rosdistro version: `0.6.0-0`
+- old version: `0.6.0-0`
+- new version: `0.6.1-0`
+
+Versions of tools used:
+- bloom version: `0.5.15`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.11.0`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.35`
+
+
 ## cob_calibration_data (indigo) - 0.6.0-0
 
 The packages in the `cob_calibration_data` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo cob_calibration_data --edit` on `Tue, 16 Sep 2014 13:55:14 -0000`
